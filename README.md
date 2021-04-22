@@ -8,5 +8,7 @@ set SLACK_API_TOKEN = xoxb-XXXXXXX
 export SLACK_API_TOKEN = xoxb-XXXXXXX
 
 pip3 install pyupbit
+
 pip3 install apscheduler
+
 pip3 install slackclient
