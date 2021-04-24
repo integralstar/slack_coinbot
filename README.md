@@ -1,5 +1,5 @@
-### slackbot
-주기적으로 코인 가격을 slack에 출력
+### slack_coinbot
+주기적으로 코인 가격과 RSI를 slack에 출력
 
 #### windows
 set SLACK_API_TOKEN = xoxb-XXXXXXX
